@@ -3,79 +3,79 @@
   --oui-font-size-base: 16px;
 
   /* colors */
-  --oui-color-primary: 176 132 233;
-  --oui-color-primary-light: 213 190 244;
-  --oui-color-primary-darken: 137 76 209;
+  --oui-color-primary: 54 92 199;
+  --oui-color-primary-light: 107 142 255;
+  --oui-color-primary-darken: 24 77 174;
   --oui-color-primary-contrast: 255 255 255;
 
-  --oui-color-link: 189 107 237;
-  --oui-color-link-light: 217 152 250;
+  --oui-color-link: 144 190 240;
+  --oui-color-link-light: 204 225 255;
 
-  --oui-color-secondary: 255 255 255;
-  --oui-color-tertiary: 218 218 218;
-  --oui-color-quaternary: 218 218 218;
+  --oui-color-secondary: 240 240 240;
+  --oui-color-tertiary: 230 230 230;
+  --oui-color-quaternary: 230 230 230;
 
-  --oui-color-danger: 245 97 139;
-  --oui-color-danger-light: 250 167 188;
-  --oui-color-danger-darken: 237 72 122;
+  --oui-color-danger: 227 45 43;
+  --oui-color-danger-light: 255 96 96;
+  --oui-color-danger-darken: 198 30 30;
   --oui-color-danger-contrast: 255 255 255;
 
-  --oui-color-success: 41 233 169;
-  --oui-color-success-light: 101 240 194;
-  --oui-color-success-darken: 0 161 120;
+  --oui-color-success: 34 139 34;
+  --oui-color-success-light: 96 200 96;
+  --oui-color-success-darken: 0 128 0;
   --oui-color-success-contrast: 255 255 255;
 
-  --oui-color-warning: 255 209 70;
-  --oui-color-warning-light: 255 229 133;
-  --oui-color-warning-darken: 255 152 0;
-  --oui-color-warning-contrast: 255 255 255;
+  --oui-color-warning: 240 230 140;
+  --oui-color-warning-light: 255 250 200;
+  --oui-color-warning-darken: 230 200 100;
+  --oui-color-warning-contrast: 0 0 0;
 
-  --oui-color-fill: 36 32 47;
-  --oui-color-fill-active: 40 46 58;
+  --oui-color-fill: 200 210 220;
+  --oui-color-fill-active: 210 220 230;
 
-  --oui-color-base-1: 93 83 123;
-  --oui-color-base-2: 81 72 107;
-  --oui-color-base-3: 68 61 69;
-  --oui-color-base-4: 57 52 74;
-  --oui-color-base-5: 51 46 66;
-  --oui-color-base-6: 43 38 56;
-  --oui-color-base-7: 36 32 47;
-  --oui-color-base-8: 29 26 38;
-  --oui-color-base-9: 22 20 28;
+  --oui-color-base-1: 25 25 112;
+  --oui-color-base-2: 15 15 85;
+  --oui-color-base-3: 0 0 64;
+  --oui-color-base-4: 0 0 45;
+  --oui-color-base-5: 10 10 30;
+  --oui-color-base-6: 0 0 25;
+  --oui-color-base-7: 51 46 66;
+  --oui-color-base-8: 8 8 20;
+  --oui-color-base-9: 5 5 15;
   --oui-color-base-10: 14 13 18;
 
   --oui-color-base-foreground: 255 255 255;
-  --oui-color-line: 255 255 255;
+  --oui-color-line: 200 200 200;
 
-  --oui-color-trading-loss: 245 97 139;
+  --oui-color-trading-loss: 227 45 43;
   --oui-color-trading-loss-contrast: 255 255 255;
-  --oui-color-trading-profit: 41 233 169;
+  --oui-color-trading-profit: 34 139 34;
   --oui-color-trading-profit-contrast: 255 255 255;
 
   /* gradients */
-  --oui-gradient-primary-start: 40 0 97;
-  --oui-gradient-primary-end: 189 107 237;
+  --oui-gradient-primary-start: 107 142 255;
+  --oui-gradient-primary-end: 54 92 199;
 
-  --oui-gradient-secondary-start: 81 42 121;
-  --oui-gradient-secondary-end: 176 132 233;
+  --oui-gradient-secondary-start: 200 200 200;
+  --oui-gradient-secondary-end: 220 220 220;
 
-  --oui-gradient-success-start: 1 83 68;
-  --oui-gradient-success-end: 41 223 169;
+  --oui-gradient-success-start: 96 200 96;
+  --oui-gradient-success-end: 34 139 34;
 
-  --oui-gradient-danger-start: 153 24 76;
-  --oui-gradient-danger-end: 245 97 139;
+  --oui-gradient-danger-start: 255 96 96;
+  --oui-gradient-danger-end: 227 45 43;
 
-  --oui-gradient-brand-start: 231 219 249;
-  --oui-gradient-brand-end: 159 107 225;
+  --oui-gradient-brand-start: 204 225 255;
+  --oui-gradient-brand-end: 144 190 240;
   --oui-gradient-brand-stop-start: 6.62%;
   --oui-gradient-brand-stop-end: 86.5%;
   --oui-gradient-brand-angle: 17.44deg;
 
-  --oui-gradient-warning-start: 152 58 8;
-  --oui-gradient-warning-end: 255 209 70;
+  --oui-gradient-warning-start: 255 250 200;
+  --oui-gradient-warning-end: 240 230 140;
 
-  --oui-gradient-neutral-start: 27 29 24;
-  --oui-gradient-neutral-end: 38 41 46;
+  --oui-gradient-neutral-start: 220 220 220;
+  --oui-gradient-neutral-end: 200 200 200;
 
   /* rounded */
   --oui-rounded-sm: 2px;
